@@ -1,0 +1,69 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Museo+Sans:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-museo-sans: "Museo Sans";
+
+  /* font sizes */
+  --font-size-xs: 12px;
+  --font-size-lg: 18px;
+  --font-size-smi: 13px;
+  --font-size-mid: 17px;
+  --font-size-2xs: 11px;
+  --font-size-sm: 14px;
+  --font-size-5xl: 24px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --color-ghostwhite-100: #f6f7fd;
+  --color-white: #fff;
+  --color-slategray-100: #80808f;
+  --color-slategray-200: #6c7293;
+  --color-slategray-300: #5b5d80;
+  --color-gray-100: #212121;
+  --color-gray-200: #1e1e2d;
+  --color-gray-300: #1b1b28;
+  --color-silver-100: #b5b5c3;
+  --color-silver-200: rgba(181, 181, 195, 0.7);
+  --color-darkslategray-100: #464e5f;
+  --color-darkslategray-200: #434349;
+  --color-orange: #ffa800;
+  --color-whitesmoke-100: #f3f6f9;
+  --color-whitesmoke-200: #eff2f5;
+  --color-whitesmoke-300: #eeeff3;
+  --color-whitesmoke-400: #ebedf2;
+  --color-whitesmoke-500: #eaeaea;
+  --color-whitesmoke-600: #e5eaee;
+  --color-royalblue-100: #5d78ff;
+  --color-royalblue-200: #526ae5;
+  --color-dodgerblue-100: #6993ff;
+  --color-dodgerblue-200: #3699ff;
+  --color-dodgerblue-300: rgba(124, 145, 253, 0.1);
+  --color-mediumseagreen-100: #0bb783;
+  --color-lightcyan-100: #d7f9ef;
+  --color-lightcyan-200: #c9f7f5;
+  --color-lightslategray-100: #959cbd;
+  --color-lightslategray-200: #959cb6;
+  --color-lightslategray-300: #888c9f;
+  --color-papayawhip: #fff4de;
+  --color-dimgray: #4a4b68;
+  --color-blueviolet-100: #8950fc;
+  --color-lavender: #eee5ff;
+  --color-crimson-100: #f64e60;
+  --color-mistyrose-100: #ffe2e5;
+  --color-mediumturquoise: #1bc5bd;
+  --color-black: #000;
+
+  /* Border radiuses */
+  --br-xs: 12px;
+  --br-9xs: 4px;
+  --br-10xs: 3px;
+  --br-11xs: 2px;
+  --br-7xs: 6px;
+  --br-5xs: 8px;
+}
